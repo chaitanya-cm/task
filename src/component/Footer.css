@@ -1,0 +1,30 @@
+.main-footer {
+    color: white;
+    background-color: #354edc;
+    /* padding-top: 3em; */
+    position: flex;
+    bottom: 0;
+    width: 100%;
+    height: inherit;
+    /* z-index: 99; */
+    
+  }
+  .row{
+    columns: 3;
+    padding: 8px;
+    margin: 3px;
+  }
+
+.col li{
+     /* padding: 8px; */
+    padding: 10px;
+  }
+
+  .row-fo{
+    /* columns: 3; */
+    padding: 8px;
+    margin: 1em;
+    position: flex;
+  }
+
+ 

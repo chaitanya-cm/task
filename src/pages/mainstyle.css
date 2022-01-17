@@ -1,0 +1,23 @@
+.prod-details{
+    align-items: relative;
+    padding: 8em;
+    margin: 10px;
+    height: 10em;
+
+}
+.prod-nm{
+    height: 3em;
+    width: 10em;
+}
+.btn{
+    width: 10em;
+    background: transparent;
+    height: 3em;
+    /* height: ; */
+    /* padding: 9em; */
+    /* text-align: center; */
+}
+.home{
+    height: 10%;
+    /* width: 30%; */
+}
